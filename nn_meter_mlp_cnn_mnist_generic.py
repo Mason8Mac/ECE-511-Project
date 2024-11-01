@@ -155,6 +155,7 @@ def test():
     
     #define latency and display the resulting latency measurement
     #input data shape must be manually defined for nn-Meter
+    #tensor is shaped to (1, 784) for the MNIST digit dataset
     latency = predictor.predict(model, model_type = "torch", input_shape = (1, 784))
     print(f"\nPredicted latency for device architecture model {predictor_name} is : {latency} ms")
     
