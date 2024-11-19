@@ -36,7 +36,10 @@ adreno640gpu_tflite21:     Processor (Adreno 640 GPU), Device (Mi9)
 adreno630gpu_tflite21:     Processor (Adreno 630 GPU), Device (Pixel3XL)
 myriadvpu_openvino2019r2:  Processor (Myriad VPU),     Device (Intel Movidius NCS2)
 
-Through the predictions and tests, we will be trying to find the 
+Submissions
+Presentation of the Project work
+6 to 8 page IEEE-formatted paper
+Finalized GitHub repository
 
 Contributing
 Jake Horio & Mason Mac
