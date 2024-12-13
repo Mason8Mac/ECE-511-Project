@@ -68,4 +68,5 @@ Presentation of the Project work,
 Finalized GitHub repository
 
 [Contributing](#Contributing)
+
 Jake Horio & Mason Mac
