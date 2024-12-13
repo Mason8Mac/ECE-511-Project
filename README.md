@@ -51,7 +51,15 @@ myriadvpu_openvino2019r2:  Processor (Myriad VPU),     Device (Intel Movidius NC
 
 [Codes](#codes)
 
+-[kernel_3x3_model_classes.py:](#Code1) Defines a set of CNN architectures tailored for the CIFAR-10 dataset using PyTorch. Each architecture is based on a 3x3 conolutional kernel and has varying levels of complexity.
 
+-[kernel_5x5_model_classes.py:](#Code2) Defines a set of CNN architectures tailored for the CIFAR-10 dataset using PyTorch. Each architecture is based on a 5x5 conolutional kernel and has varying levels of complexity.
+
+-[kernel_7x7_model_classes.py:](#Code3) Defines a set of CNN architectures tailored for the CIFAR-10 dataset using PyTorch. Each architecture is based on a 7x7 conolutional kernel and has varying levels of complexity.
+
+-[nn_meter_cnn_cifar10_generic.py:](#Code4) Combines predefined CNN architectures with the nn-Meter tool to evaluate the feed-forward latency of these models on specific hardware. This code uses PyTorch for defining, training, and testing the CNNs. 
+
+-[latecy_results_chart.py:](#Code5) Visualizes the feed-forward latency data of various CNN models on different hardware platforms. Uses Matplotlib to generate charts for comparisons and Pandas to organize the latency results/data.
 
 [Submissions](#Submissions)
 
