@@ -13,7 +13,7 @@ This project aims to set up nn-Meter and use it to evaluate and correlate the la
 
 [Source Reference](#Reference)
 
-[nn-Meter Repository](https://github.com/microsoft/nn-Meter)
+Link: [nn-Meter Repository](https://github.com/microsoft/nn-Meter)
 
 This is the original nn-Meter repository which is required as a dependency for our project. This repository gives a detailed background into the tool nn-Meter and how to set up TensorFlow and PyTorch to use the tool.
 
