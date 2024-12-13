@@ -67,5 +67,5 @@ Presentation of the Project work,
 6 to 8 page IEEE-formatted paper,
 Finalized GitHub repository
 
-[Contributing]
+[Contributing](#Contributing)
 Jake Horio & Mason Mac
