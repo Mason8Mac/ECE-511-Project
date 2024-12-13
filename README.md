@@ -11,6 +11,12 @@ evaluating platforms on a large dataset of the MNIST which has 60,000 images for
 
 This project aims to set up nn-Meter and use it to evaluate and correlate the latency behavior of various neural networks (NNs) on different device cores.
 
+[Source Reference](#Reference)
+
+[nn-Meter Repository](https://github.com/microsoft/nn-Meter)
+
+This is the original nn-Meter repository which is required as a dependency for our project. This repository gives a detailed background into the tool nn-Meter and how to set up TensorFlow and PyTorch to use the tool.
+
 [Key Components of nn-Meter](#KeyComponents)
   
 nn-Meter incorporates two core techniques to enhance latency prediction:
