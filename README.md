@@ -69,4 +69,4 @@ Finalized GitHub repository
 
 [Contributing](#Contributing)
 
-Jake Horio & Mason Mac
+Jake Horio & Mason McFarland
