@@ -1,6 +1,6 @@
 [Project](#ProjectTitle)
 
-nn-Meter: Towards Accurate Latency Prediction of Deep-Learning Model Inference on Diverse Edge Devices
+Correlating Feed-Forward Latency on Target Hardware with Various CNN Architectures
 
 [Project Overview](#Overview)
 
